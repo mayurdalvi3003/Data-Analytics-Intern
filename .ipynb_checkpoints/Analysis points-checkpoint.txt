@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------- EDA ------------------------------------------------------------------------------
+- shape :- 4894, 16
+- check the datatype of all columns and if the datatype is object then convert into the lowercase() 
+- missing values :- College Name(15) , How did you come to know about this event? (2216) , Specify in "Others" (how did you come to know about this event) (4805) 
+- change column names 
+- delete quantity column 
+- Attendee Status column has 12 NaN value think about it 
+- college name column has 6 NA values  and few college names has 1st letter capital and few has small letter (convert that all columns values into lowercase)
+- - How did you come to know about this event?  + Specify in "Others" (how did you come to know about this event :- where i will get other word in 1st col then i will replace that with 2nd columns value
+- in Designation coll there are few values like BE IT & IT ENGINEEING ----------> think on it 
+- in family income col replace lack with nothing and convert that column into int and change the ccolumn name and mention lack over there
+- in leadership column there are extra spaces in column value (no) 
+---------------------------------------------------------------- REPEAT ABOVE STEPS ----------------------------------------------------------------------
+
+
+
+
+
+
+
